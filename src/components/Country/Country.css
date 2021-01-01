@@ -1,0 +1,11 @@
+
+
+.country-container img{
+    width: 500px;
+}
+
+.country-container{
+    border-bottom: 1px solid lightgrey;
+    padding: 10px;
+    
+}
